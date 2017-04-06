@@ -40,3 +40,5 @@ os: win32 x64
 ![alt tag](https://raw.githubusercontent.com/mezoistvan/angular-pwa-starter/master/src/assets/lighthouse/lighthouse.png)
 
 Create a build and the service workers required with `npm run build`.
+
+TODO: add `sw-toolbox` and investigate `angular-universal`.
