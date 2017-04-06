@@ -6,4 +6,4 @@ Lightweight starter 'ng init' with added app shell features (sw-toolbox, sw-prec
 @angular/core v4.0.1
 ```
 
-4+ versions of Angular are likely to incorporate all of these features. Until then, this is intended to be an upgraded `ng init`.
+4+ versions of Angular are likely to incorporate all of these features. Until then, this is intended to be an upgraded `ng new <project-name>`.
