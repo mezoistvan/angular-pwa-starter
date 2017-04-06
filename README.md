@@ -1,7 +1,7 @@
 # ng2-pwa-starter
 Lightweight starter 'ng new' with added app shell features (sw-toolbox, sw-precache, web app manifest) and server-side rendering (angular-universal).
 
-Based on the excellent article by Houssein Djirdeh available here: https://houssein.me/progressive-angular-applications. Check out his working PWA for hackernews here: https://github.com/housseindjirdeh/angular2-hn. Huge kudos!
+Based on the excellent [article by Houssein Djirdeh on PWAs.](https://houssein.me/progressive-angular-applications) Check out his working PWA for hackernews here: https://github.com/housseindjirdeh/angular2-hn. Huge kudos!
 
 ```
 @angular/cli v1.0.0
@@ -39,6 +39,4 @@ os: win32 x64
 
 ![alt tag](https://raw.githubusercontent.com/mezoistvan/angular-pwa-starter/master/src/assets/lighthouse/lighthouse.png)
 
-```
-npm run build
-```
+Create a build and the service workers required with `npm run build`.
