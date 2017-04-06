@@ -1,6 +1,6 @@
 {
   "name": "Angular PWA Starter",
-  "short_name": "Angular PWA Starter",
+  "short_name": "Angular PWA",
   "icons": [
     {
       "src": "assets/icons/android-chrome-192x192.png",
