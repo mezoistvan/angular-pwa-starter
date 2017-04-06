@@ -1,5 +1,5 @@
 # ng2-pwa-starter
-Lightweight starter 'ng init' with added app shell features (sw-toolbox, sw-precache, web app manifest) and server-side rendering (angular-universal).
+Lightweight starter 'ng new' with added app shell features (sw-toolbox, sw-precache, web app manifest) and server-side rendering (angular-universal).
 
 ```
 @angular/cli v1.0.0
