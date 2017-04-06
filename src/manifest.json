@@ -1,0 +1,21 @@
+{
+  "name": "Angular PWA Starter",
+  "short_name": "Angular PWA Starter",
+  "icons": [
+    {
+      "src": "assets/icons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image\/png"
+    },
+    {
+      "src": "assets/icons/android-chrome-384x384.png",
+      "sizes": "384x384",
+      "type": "image\/png"
+    }
+  ],
+  "theme_color": "#999999",
+  "background_color": "#555555",
+  "display": "standalone",
+  "orientation": "portrait",
+  "start_url": "./?utm_source=web_app_manifest"
+}
