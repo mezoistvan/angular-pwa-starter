@@ -1,4 +1,4 @@
-# ng2-pwa-starter
+# angular-pwa-starter
 Lightweight starter 'ng new' with added app shell features (sw-precache, web app manifest).
 
 Based on the excellent [article by Houssein Djirdeh on PWAs.](https://houssein.me/progressive-angular-applications) Check out his working PWA for hackernews here: https://github.com/housseindjirdeh/angular2-hn. Huge kudos!
