@@ -1,5 +1,5 @@
 # ng2-pwa-starter
-Lightweight starter 'ng new' with added app shell features (sw-toolbox, sw-precache, web app manifest) and server-side rendering (angular-universal).
+Lightweight starter 'ng new' with added app shell features (sw-precache, web app manifest).
 
 Based on the excellent [article by Houssein Djirdeh on PWAs.](https://houssein.me/progressive-angular-applications) Check out his working PWA for hackernews here: https://github.com/housseindjirdeh/angular2-hn. Huge kudos!
 
