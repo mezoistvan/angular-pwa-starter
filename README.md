@@ -3,11 +3,6 @@ Lightweight starter 'ng new' with added app shell features (sw-precache, web app
 
 Based on the excellent [article by Houssein Djirdeh on PWAs.](https://houssein.me/progressive-angular-applications) Check out his working PWA for hackernews here: https://github.com/housseindjirdeh/angular2-hn. Huge kudos!
 
-```
-@angular/cli v1.0.0
-@angular/core v4.0.1
-```
-
 4+ versions of Angular are likely to incorporate all of these features. Until then, this is intended to be an upgraded `ng new <project-name>`.
 
 This is without `ng eject`! Ejecting the webpack config provides with much deeper customisation, but that is not the scope of this starter kit.
