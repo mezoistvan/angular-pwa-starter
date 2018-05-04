@@ -1,5 +1,5 @@
-# note on 4th may 2018
-This project is not maintained anymore, and Angular has made PWA support much easier in V6. Check this guide, it's so much easier than this: https://pwa.ng/
+# Note on 4th may 2018
+This project is not maintained anymore, and Angular has made PWA support much easier in V6. Check this guide: https://pwa.ng/
 
 # angular-pwa-starter
 Lightweight starter 'ng new' with added app shell features (sw-precache, web app manifest).
