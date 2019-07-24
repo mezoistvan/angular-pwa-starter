@@ -5,4 +5,6 @@ files:
     destination: /var/www/html
 hooks:
   BeforeInstall:
-    - rm -rf /var/www/html
+    - location: deployhooks.sh
+      timeout: 300
+      runas: root
