@@ -10,3 +10,4 @@ phases:
 artifacts:
   files:
     - dist/**
+    - appspec.yml
